@@ -12,9 +12,13 @@ hourly_wage = 8.75 # float
 # print(hourly_wage)
 # print(age)
 
+# User interaction
+name = input("Enter your name: ")
+print(name)
+
 # To check the type of data, use type()
-print(type(age))
+print(type(name))
 
 # overwriting a variable
-student_name = "Zydrunas"
-print(student_name)
+name = "Zydrunas"
+print(name)
