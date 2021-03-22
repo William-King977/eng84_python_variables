@@ -5,7 +5,7 @@
 - Dynamically typed language
 - User interaction
 
-### Testig the pycharm env
+### Testing the pycharm env
 ```python
 print("hello world")
 ```
